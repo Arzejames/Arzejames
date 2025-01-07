@@ -11,11 +11,19 @@
   <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
 </div>
 
-
+<h2> </h2>
 
 <div align="center">
   <p>just look at these amazing stats!</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=arzejames&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF&title_color=FFFFFF&icon_color=4493F8">
+  <img width="49.5%" height="210px" src="https://github-readme-stats.vercel.app/api?username=arzejames&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF&title_color=FFFFFF&icon_color=4493F8">
+  <img width="49.5%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzejames&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF&title_color=FFFFFF&icon_color=4493F8">
+</div>
+<h1> </h1>
+
+<div align="center">
+  <h1>Current Projects</h1>
+  <a href="https://github.com/Arzejames/asciiArtToPrint"><h3>asciiArtToPrint</h3></a>
+  <p>asciiArtToPrint is a simple Python script that allows you to convert a text file containing ASCII art into a group of commands you can use to print it in your language of choice.</p>
 </div>
 <h1> </h1>
 
