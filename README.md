@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="400px" src="https://static.wikia.nocookie.net/wnr/images/1/18/Static-assets-upload1811341065938287602.webp/revision/latest?cb=20231008015228">
+  <img width="400px" src="https://raw.githubusercontent.com/Arzejames/Arzejames/refs/heads/main/imgs/binbows.webp">
   <h1>Hi, I'm Arzejames</h1>
 </div>
 <div align="center">
