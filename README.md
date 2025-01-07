@@ -1,1 +1,25 @@
+<div align="center">
+  <img width="400px" src="https://static.wikia.nocookie.net/wnr/images/1/18/Static-assets-upload1811341065938287602.webp/revision/latest?cb=20231008015228">
+  <h1>Hi, I'm Arzejames</h1>
+</div>
+<div align="center">
+  <p>a crappy programmer in these languages</p>
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
+  <img src="https://img.shields.io/badge/C++-00599C.svg?style=for-the-badge&logo=cplusplus&logoColor=#FFFFFF">
+  <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
+</div>
 
+
+
+<div align="center">
+  <p>just look at these amazing stats!</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=arzejames&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF&title_color=FFFFFF&icon_color=4493F8">
+</div>
+<h1> </h1>
+
+<div align="center">
+  <p>Wanna contact me for some reason?</p>
+  <a href="https://discord.com/users/838934801972723713">Contact me on Discord</a>
+</div>
