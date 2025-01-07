@@ -22,7 +22,7 @@
 
 <div align="center">
   <h1>Current Projects</h1>
-  <a href="https://github.com/Arzejames/asciiArtToPrint"><h3>asciiArtToPrint</h3></a>
+  <h3><a href="https://github.com/Arzejames/asciiArtToPrint">asciiArtToPrint</a></h3>
   <p>asciiArtToPrint is a simple Python script that allows you to convert a text file containing ASCII art into a group of commands you can use to print it in your language of choice.</p>
 </div>
 <h1> </h1>
