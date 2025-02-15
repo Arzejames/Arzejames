@@ -19,7 +19,7 @@
 <div align="center">
   <p>just look at these amazing stats!</p>
   <img width="49.5%" height="210px" src="https://github-readme-stats.vercel.app/api?username=arzejames&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF&title_color=FFFFFF&icon_color=4493F8">
-  <img width="49.5%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzejames&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF&title_color=FFFFFF&icon_color=4493F8"><!--deez-->
+  <img width="49.5%" height="210px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arzejame&show_icons=true&theme=transparent&hide_border=true&text_color=FFFFFF&title_color=FFFFFF&icon_color=4493F8"><!--deez-->
   <img width="400px" height="300px" src="https://raw.githubusercontent.com/Arzejames/Arzejames/refs/heads/main/imgs/commits.png">
 </div>
 <h1> </h1>
