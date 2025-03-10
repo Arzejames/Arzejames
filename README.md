@@ -9,7 +9,6 @@
   <img src="https://img.shields.io/badge/HTML5-F26624.svg?style=for-the-badge&logo=html5&logoColor=white">
   <img src="https://img.shields.io/badge/CSS-2465F1.svg?style=for-the-badge&logo=CSS3&logoColor=white">
   <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
-  <img src="https://img.shields.io/badge/x86 Assembly-113C6B.svg?style=for-the-badge&logo=assemblyscript&logoColor=FFFFFF">
   <p></p>
   <img width="400px" height="300px" src="https://raw.githubusercontent.com/Arzejames/Arzejames/refs/heads/main/imgs/cpp.png">
 </div>
